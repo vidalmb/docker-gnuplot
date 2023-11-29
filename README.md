@@ -18,7 +18,7 @@ docker run --rm -v $(pwd):/work vidalmb/gnuplot your_file.gnu
 
 ## Example
 
-In this example we will plot the CPU temperature previously registered in a datafile (temp_fan5v) with the following format: "hour = temperature".
+In this example we will plot the CPU temperature previously registered in a datafile (temp_fan5v) with the following format: `hour = temperature`.
 
 ```
 
