@@ -2,11 +2,7 @@
 
 This is an Alpine Linux based Docker Container to run the latest version of [gnuplot](http://www.gnuplot.info).
 
-The gnuplot binary is being compiled from source and also configured to use
-
-* gdlib incl. TTF support
-* cairo
-* lua
+The gnuplot softwware is installed from Alpine standard package.
 
 Basic TTF fonts like Arial are also included, so the generated e.g. PNGs should look good and without any warnings.
 
