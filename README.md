@@ -1,4 +1,4 @@
-# [Docker gnuplot](https://hub.docker.com/r/remuslazar/gnuplot/)
+# [Docker gnuplot](https://hub.docker.com/r/vidalmb/gnuplot/)
 
 This is an Alpine Linux based Docker Container to run the latest version of [gnuplot](http://www.gnuplot.info).
 
